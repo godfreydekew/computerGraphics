@@ -1,4 +1,4 @@
-# Brownian Motion Particle Simulation
+#Particle Simulation
 
 ## Overview
 A 2D particle simulation demonstrating thermal and collision dynamics using OpenGL. The simulation models particle interactions, energy transfer, and thermal color representation.
