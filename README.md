@@ -5,7 +5,7 @@ A collection of computer graphics and computational visualization projects demon
 
 ## Projects
 
-### 1. Dragon Curve Fractal
+### [1. Dragon Curve Fractal](/src/dragonCurve)
 - **Technology**: OpenGL, GLUT
 - **Focus**: Fractal generation and rendering
 - **Key Features**: Iterative transformations, interactive controls
