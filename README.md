@@ -10,22 +10,22 @@ A collection of computer graphics and computational visualization projects demon
 - **Focus**: Fractal generation and rendering
 - **Key Features**: Iterative transformations, interactive controls
 
-### 2. Circle and Line Drawing
+### [2. Circle and Line Drawing](/src/midPoint)
 - **Technology**: Custom Image Processing
 - **Focus**: Geometric shape rendering algorithms
 - **Key Features**: Circle drawing, midpoint algorithms, image manipulation
 
-### 3. Brownian Motion Particle Simulation
+### [3. Molecular Particle Simulation](/src/molecularTheory)
 - **Technology**: OpenGL
 - **Focus**: Physics simulation and particle dynamics
 - **Key Features**: Thermal color visualization, collision physics
 
-### 4. Rainbow Circle Generator
+### [4. Rainbow Generator](/src/molecularTheory)
 - **Technology**: Custom Image Processing
 - **Focus**: Color gradient and geometric rendering
 - **Key Features**: Concentric circle drawing, color spectrum generation
 
-### 5. Geometric Transformations SVG Generator
+### [5. Geometric Transformations SVG Generator](/src/svgTransformation)
 - **Technology**: SVG Generation
 - **Focus**: Geometric transformations
 - **Key Features**: Translation, rotation, scaling, reflection
@@ -34,12 +34,12 @@ A collection of computer graphics and computational visualization projects demon
 - C++11 or later
 - OpenGL
 - GLUT
-- Custom Image Processing Libraries
+- -l png
 
 ## Compilation Requirements
 Most projects require compilation with graphics and math libraries:
 ```bash
-g++ -o project_name main.cpp -lGL -lGLU -lglut -lm
+g++ -o project_name main.cpp -lGL -lGLU -lglut 
 ```
 
 ## Learning Objectives
